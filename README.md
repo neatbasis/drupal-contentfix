@@ -16,6 +16,8 @@ First clone this repository to the root directory of your Drupal site
 
 
 Then
-	cd drupal-contentfix
-	composer update
-	php bin/contentfix.php
+```shell
+cd drupal-contentfix
+composer update
+php bin/contentfix.php
+```
