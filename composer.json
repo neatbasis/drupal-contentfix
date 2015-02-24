@@ -1,0 +1,20 @@
+{
+    "name": "bittiraha/drupal-contentfix",
+    "description": "Make content responsive",
+    "autoload": {
+        "psr-0": {
+            "ContentFix": "src"
+        }
+    },
+    "require": {
+        "illuminate/database": "~5.0",
+        "illuminate/events": "~5.0",
+        "guiguiboy/php-cli-progress-bar": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Sebastian Mäki",
+            "email": "sebastian@tico.fi"
+        }
+    ]
+}
