@@ -21,3 +21,5 @@ cd drupal-contentfix
 composer update
 php bin/contentfix.php
 ```
+
+Be sure to make a backup of your database before using this as it may set your children on fire and melt your server
